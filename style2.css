@@ -1,0 +1,74 @@
+.main{
+    display: flex;
+    column-gap:25px;
+    position: fixed; 
+    z-index: 999;
+    justify-content: space-between;
+    margin-left: 300px;
+    width: 1000px;
+    height: 150px;
+     border: 10px  solid;
+    border: double red;
+    
+    
+}
+im{
+    width: 200px;
+    height: 100px;
+    border-right: double red;
+}
+.container{
+    margin-left: 500px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    border: 2px  ridge;
+    border: double blue;
+    background-image: url("https://media.istockphoto.com/id/1322277517/photo/wild-grass-in-the-mountains-at-sunset.jpg?s=2048x2048&w=is&k=20&c=eBcsIJmWFYds4lRtGcQi8rRsXsdzBgacGRL4iUoFGgQ=");
+}
+#m1{
+    width: 500px;
+    height: 250px; 
+    position: static;
+
+}
+#m2{
+  width: 500px;
+    height: 250px; 
+    position:relative;
+}
+#h1{
+    margin-left: 700px;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+#p1{
+
+    bottom: 50px;
+}
+#m3{
+    width: 500px;
+    height: 250px;
+    position: relative;
+}
+#m4{
+    height: 400px;
+    width: 500px;
+}
+#ar1{
+    width: 50px;
+    height: 30px;
+    position:relative;
+    top: 50px;
+}
+#sec1{
+    background-image: url("https://media.istockphoto.com/id/1322277517/photo/wild-grass-in-the-mountains-at-sunset.jpg?s=2048x2048&w=is&k=20&c=eBcsIJmWFYds4lRtGcQi8rRsXsdzBgacGRL4iUoFGgQ=");
+}
+#p3{
+font-size-adjust: auto;
+
+}
